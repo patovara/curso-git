@@ -1,1 +1,3 @@
 Aquí vamos a comenzar hacer las pruebas de Git que hemos estados aprendiendo el curso de Sergie Code 
+Entonces todo lo que vamos agregando aquí se queda de forma local hasta que le damos el add reomte y 
+después el push no? 
