@@ -1,3 +1,7 @@
 Aquí vamos a comenzar hacer las pruebas de Git que hemos estados aprendiendo el curso de Sergie Code 
 Entonces todo lo que vamos agregando aquí se queda de forma local hasta que le damos el add reomte y 
 después el push no? 
+
+Ya solo para ver que le voy cachando el pedo a este rollo, entonces lo que hago aquí
+es trabajar de forma local, hasta que guardo los cambios, le doy git add y después comento con el commit
+para posteriormente pushear y que se suben a gitHub
